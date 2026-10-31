@@ -1,0 +1,4 @@
+C:/os/lab2/build/CMakeFiles/process_runner.dir
+C:/os/lab2/build/CMakeFiles/TestUtility.dir
+C:/os/lab2/build/CMakeFiles/edit_cache.dir
+C:/os/lab2/build/CMakeFiles/rebuild_cache.dir

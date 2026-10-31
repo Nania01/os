@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libprocess_runner.a CMakeFiles/process_runner.dir/process_runner.cpp.obj
+C:\MinGW\bin\ranlib.exe libprocess_runner.a
