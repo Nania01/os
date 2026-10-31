@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/os/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\HelloWorld.dir\\main.cpp.obj -c C:\\os\\main.cpp",
+  "file": "C:/os/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/main.cpp.obj"
+}
+]
